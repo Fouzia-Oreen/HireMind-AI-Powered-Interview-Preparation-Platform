@@ -1,25 +1,12 @@
 # HireMind – AI-Powered Interview Preparation Platform
 
+![HireMind](https://res.cloudinary.com/fouziaoreen/image/upload/v1782680553/hiremind-merge_fg7etk.png)
 
-
-![Next.js](https://img.shields.io/badge/Next.js-15-black)
-
-![React](https://img.shields.io/badge/React-19-blue)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue)
-
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
-
+<br>
 
 An AI-powered interview preparation platform designed to help job seekers practice, improve, and succeed in technical and non-technical interviews. The application leverages modern AI capabilities to generate interview questions, simulate realistic interview experiences, provide feedback, and track preparation progress.
 
-
-
 Built with **Next.js App Router**, **TypeScript**, **Framer Motion**, and a scalable backend architecture, iPrep.AI delivers a fast, responsive, and professional user experience across devices.
-
 
 
 ---
